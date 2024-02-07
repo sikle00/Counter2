@@ -1,0 +1,10 @@
+.arrowup {
+    height: 50px;
+}
+.number {
+    font-size: 150%;
+}
+.arrowdown {
+    height: 50px;
+    rotate: 180deg;
+}
